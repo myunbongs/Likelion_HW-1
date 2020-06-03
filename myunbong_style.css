@@ -1,0 +1,29 @@
+.MyInfo, .introduce, .keyword, .inputservice, .value, .favorite {
+		font-family: 'Jua'
+}
+.MyProfile, .MyInfo, .introduce, .keyword, .inputservice, .value, .favorite, .love {
+		color: white;
+}
+.two {
+	width: 80px;
+}
+
+.link{
+	padding: 20px;
+}
+.inputservice {
+	background-image: url("SMU.png");
+}
+.inputservice {
+	color: navy;
+}
+.input {
+	color: white;
+	width: 500px;
+	opacity: .5;
+}
+.loginForm {
+	color: white;
+	width: 400px;
+	opacity: .7;
+}
